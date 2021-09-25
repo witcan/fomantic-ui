@@ -41813,7 +41813,7 @@ span.ui.massive.text {
 .ui.form input[type="file"]:focus,
 .ui.form input[type="url"]:focus {
   color: rgba(0, 0, 0, 0.95);
-  border-color: #85B7D9;
+  border-color: #1890ff;
   border-radius: 0.28571429rem;
   background: #FFFFFF;
   -webkit-box-shadow: 0 0 0 0 rgba(34, 36, 38, 0.35) inset;
@@ -41854,7 +41854,7 @@ span.ui.massive.text {
 
 .ui.form textarea:focus {
   color: rgba(0, 0, 0, 0.95);
-  border-color: #85B7D9;
+  border-color: #1890ff;
   border-radius: 0.28571429rem;
   background: #FFFFFF;
   -webkit-box-shadow: 0 0 0 0 rgba(34, 36, 38, 0.35) inset;

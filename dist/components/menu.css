@@ -1373,17 +1373,17 @@ Floated Menu / Item
 .ui.ui.ui.menu .red.active.item,
 .ui.ui.red.menu .active.item:hover,
 .ui.ui.red.menu .active.item {
-  color: #DB2828;
+  color: #ff4d4f;
 }
 .ui.ui.ui.menu .orange.active.item,
 .ui.ui.orange.menu .active.item:hover,
 .ui.ui.orange.menu .active.item {
-  color: #FE9A76;
+  color: #fa8c16;
 }
 .ui.ui.ui.menu .yellow.active.item,
 .ui.ui.yellow.menu .active.item:hover,
 .ui.ui.yellow.menu .active.item {
-  color: #FFD700;
+  color: #fadb14;
 }
 .ui.ui.ui.menu .olive.active.item,
 .ui.ui.olive.menu .active.item:hover,
@@ -1571,7 +1571,7 @@ Floated Menu / Item
 }
 .ui.ui.ui.inverted.menu .red.active.item,
 .ui.ui.inverted.red.menu {
-  background-color: #DB2828;
+  background-color: #ff4d4f;
 }
 .ui.inverted.red.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -1580,11 +1580,11 @@ Floated Menu / Item
   background-color: rgba(0, 0, 0, 0.1);
 }
 .ui.inverted.pointing.red.menu .active.item {
-  background-color: #d01919;
+  background-color: #ff3336;
 }
 .ui.ui.ui.inverted.menu .orange.active.item,
 .ui.ui.inverted.orange.menu {
-  background-color: #FE9A76;
+  background-color: #fa8c16;
 }
 .ui.inverted.orange.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -1593,11 +1593,11 @@ Floated Menu / Item
   background-color: rgba(0, 0, 0, 0.1);
 }
 .ui.inverted.pointing.orange.menu .active.item {
-  background-color: #ff875c;
+  background-color: #f78000;
 }
 .ui.ui.ui.inverted.menu .yellow.active.item,
 .ui.ui.inverted.yellow.menu {
-  background-color: #FFD700;
+  background-color: #fadb14;
 }
 .ui.inverted.yellow.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -1606,7 +1606,7 @@ Floated Menu / Item
   background-color: rgba(0, 0, 0, 0.1);
 }
 .ui.inverted.pointing.yellow.menu .active.item {
-  background-color: #e6c100;
+  background-color: #f5d400;
 }
 .ui.ui.ui.inverted.menu .olive.active.item,
 .ui.ui.inverted.olive.menu {
@@ -2014,13 +2014,13 @@ Floated Menu / Item
   background-color: #A0A0A0;
 }
 .ui.inverted.pointing.menu .red.active.item:after {
-  background-color: #DB2828;
+  background-color: #ff4d4f;
 }
 .ui.inverted.pointing.menu .orange.active.item:after {
-  background-color: #FE9A76;
+  background-color: #fa8c16;
 }
 .ui.inverted.pointing.menu .yellow.active.item:after {
-  background-color: #FFD700;
+  background-color: #fadb14;
 }
 .ui.inverted.pointing.menu .olive.active.item:after {
   background-color: #32CD32;

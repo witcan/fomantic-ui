@@ -336,7 +336,7 @@
 .ui.red.loading.loading.loading.loading .input > i.icon:after,
 .ui.red.loading.loading.loading.loading > i.icon:after,
 .ui.red.loader.loader.loader:after {
-  color: #DB2828;
+  color: #ff4d4f;
 }
 .ui.inverted.red.elastic.loader:before,
 .ui.inverted.red.elastic.loading.loading.loading:not(.segment):not(.segments):not(.card):before,
@@ -358,7 +358,7 @@
 .ui.orange.loading.loading.loading.loading .input > i.icon:after,
 .ui.orange.loading.loading.loading.loading > i.icon:after,
 .ui.orange.loader.loader.loader:after {
-  color: #FE9A76;
+  color: #fa8c16;
 }
 .ui.inverted.orange.elastic.loader:before,
 .ui.inverted.orange.elastic.loading.loading.loading:not(.segment):not(.segments):not(.card):before,
@@ -380,7 +380,7 @@
 .ui.yellow.loading.loading.loading.loading .input > i.icon:after,
 .ui.yellow.loading.loading.loading.loading > i.icon:after,
 .ui.yellow.loader.loader.loader:after {
-  color: #FFD700;
+  color: #fadb14;
 }
 .ui.inverted.yellow.elastic.loader:before,
 .ui.inverted.yellow.elastic.loading.loading.loading:not(.segment):not(.segments):not(.card):before,

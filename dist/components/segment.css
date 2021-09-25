@@ -597,24 +597,24 @@
 --------------------*/
 
 .ui.red.segment.segment.segment.segment.segment:not(.inverted) {
-  border-top: 2px solid #DB2828;
+  border-top: 2px solid #ff4d4f;
 }
 .ui.inverted.red.segment.segment.segment.segment.segment {
-  background-color: #DB2828;
+  background-color: #ff4d4f;
   color: #FFFFFF;
 }
 .ui.orange.segment.segment.segment.segment.segment:not(.inverted) {
-  border-top: 2px solid #FE9A76;
+  border-top: 2px solid #fa8c16;
 }
 .ui.inverted.orange.segment.segment.segment.segment.segment {
-  background-color: #FE9A76;
+  background-color: #fa8c16;
   color: #FFFFFF;
 }
 .ui.yellow.segment.segment.segment.segment.segment:not(.inverted) {
-  border-top: 2px solid #FFD700;
+  border-top: 2px solid #fadb14;
 }
 .ui.inverted.yellow.segment.segment.segment.segment.segment {
-  background-color: #FFD700;
+  background-color: #fadb14;
   color: #FFFFFF;
 }
 .ui.olive.segment.segment.segment.segment.segment:not(.inverted) {

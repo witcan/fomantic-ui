@@ -317,7 +317,7 @@
 
 /* Standard */
 .ui.red.slider .inner .track-fill {
-  background-color: #DB2828;
+  background-color: #ff4d4f;
 }
 .ui.red.inverted.slider .inner .track-fill {
   background-color: #FF695E;
@@ -325,11 +325,11 @@
 
 /* Basic */
 .ui.red.slider.basic .inner .thumb {
-  background-color: #DB2828;
+  background-color: #ff4d4f;
 }
 .ui.red.slider.basic .inner .thumb:hover,
 .ui.red.slider.basic:focus .inner .thumb {
-  background-color: #d01919;
+  background-color: #ff3336;
 }
 
 /* Basic Inverted */
@@ -343,7 +343,7 @@
 
 /* Standard */
 .ui.orange.slider .inner .track-fill {
-  background-color: #FE9A76;
+  background-color: #fa8c16;
 }
 .ui.orange.inverted.slider .inner .track-fill {
   background-color: #FF851B;
@@ -351,11 +351,11 @@
 
 /* Basic */
 .ui.orange.slider.basic .inner .thumb {
-  background-color: #FE9A76;
+  background-color: #fa8c16;
 }
 .ui.orange.slider.basic .inner .thumb:hover,
 .ui.orange.slider.basic:focus .inner .thumb {
-  background-color: #ff875c;
+  background-color: #f78000;
 }
 
 /* Basic Inverted */
@@ -369,7 +369,7 @@
 
 /* Standard */
 .ui.yellow.slider .inner .track-fill {
-  background-color: #FFD700;
+  background-color: #fadb14;
 }
 .ui.yellow.inverted.slider .inner .track-fill {
   background-color: #FFE21F;
@@ -377,11 +377,11 @@
 
 /* Basic */
 .ui.yellow.slider.basic .inner .thumb {
-  background-color: #FFD700;
+  background-color: #fadb14;
 }
 .ui.yellow.slider.basic .inner .thumb:hover,
 .ui.yellow.slider.basic:focus .inner .thumb {
-  background-color: #e6c100;
+  background-color: #f5d400;
 }
 
 /* Basic Inverted */

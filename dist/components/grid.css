@@ -1344,19 +1344,19 @@
 .ui.grid > .red.row,
 .ui.grid > .red.column,
 .ui.grid > .row > .red.column {
-  background-color: #DB2828;
+  background-color: #ff4d4f;
   color: #FFFFFF;
 }
 .ui.grid > .orange.row,
 .ui.grid > .orange.column,
 .ui.grid > .row > .orange.column {
-  background-color: #FE9A76;
+  background-color: #fa8c16;
   color: #FFFFFF;
 }
 .ui.grid > .yellow.row,
 .ui.grid > .yellow.column,
 .ui.grid > .row > .yellow.column {
-  background-color: #FFD700;
+  background-color: #fadb14;
   color: #FFFFFF;
 }
 .ui.grid > .olive.row,

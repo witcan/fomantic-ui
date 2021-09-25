@@ -29,19 +29,19 @@ span.ui.inverted.secondary.text {
   color: #545454;
 }
 span.ui.red.text {
-  color: #DB2828;
+  color: #ff4d4f;
 }
 span.ui.inverted.red.text {
   color: #FF695E;
 }
 span.ui.orange.text {
-  color: #FE9A76;
+  color: #fa8c16;
 }
 span.ui.inverted.orange.text {
   color: #FF851B;
 }
 span.ui.yellow.text {
-  color: #FFD700;
+  color: #fadb14;
 }
 span.ui.inverted.yellow.text {
   color: #FFE21F;
@@ -107,7 +107,7 @@ span.ui.inverted.black.text {
   color: #545454;
 }
 span.ui.error.text {
-  color: #DB2828;
+  color: #ff4d4f;
 }
 span.ui.info.text {
   color: #31CCEC;

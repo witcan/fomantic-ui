@@ -388,13 +388,13 @@ a.ui.inverted.secondary.header.header.header:hover {
   border-bottom: 2px solid #545454;
 }
 .ui.red.header {
-  color: #DB2828;
+  color: #ff4d4f;
 }
 a.ui.red.header:hover {
-  color: #d01919;
+  color: #ff3336;
 }
 .ui.red.dividing.header {
-  border-bottom: 2px solid #DB2828;
+  border-bottom: 2px solid #ff4d4f;
 }
 .ui.inverted.red.header.header.header {
   color: #FF695E;
@@ -406,13 +406,13 @@ a.ui.inverted.red.header.header.header:hover {
   border-bottom: 2px solid #FF695E;
 }
 .ui.orange.header {
-  color: #FE9A76;
+  color: #fa8c16;
 }
 a.ui.orange.header:hover {
-  color: #ff875c;
+  color: #f78000;
 }
 .ui.orange.dividing.header {
-  border-bottom: 2px solid #FE9A76;
+  border-bottom: 2px solid #fa8c16;
 }
 .ui.inverted.orange.header.header.header {
   color: #FF851B;
@@ -424,13 +424,13 @@ a.ui.inverted.orange.header.header.header:hover {
   border-bottom: 2px solid #FF851B;
 }
 .ui.yellow.header {
-  color: #FFD700;
+  color: #fadb14;
 }
 a.ui.yellow.header:hover {
-  color: #e6c100;
+  color: #f5d400;
 }
 .ui.yellow.dividing.header {
-  border-bottom: 2px solid #FFD700;
+  border-bottom: 2px solid #fadb14;
 }
 .ui.inverted.yellow.header.header.header {
   color: #FFE21F;

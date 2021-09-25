@@ -138,14 +138,14 @@
 }
 .ui.red.rating .active.icon {
   color: #FF695E;
-  text-shadow: 0px -1px 0px #DB2828, -1px 0px 0px #DB2828, 0px 1px 0px #DB2828, 1px 0px 0px #DB2828;
+  text-shadow: 0px -1px 0px #ff4d4f, -1px 0px 0px #ff4d4f, 0px 1px 0px #ff4d4f, 1px 0px 0px #ff4d4f;
 }
 .ui.red.rating .icon.selected,
 .ui.red.rating .icon.selected.active,
 .ui.red.rating .icon.selected.partial.active {
   background: inherit;
   color: #ff392b;
-  text-shadow: 0px -1px 0px #d01919, -1px 0px 0px #d01919, 0px 1px 0px #d01919, 1px 0px 0px #d01919;
+  text-shadow: 0px -1px 0px #ff3336, -1px 0px 0px #ff3336, 0px 1px 0px #ff3336, 1px 0px 0px #ff3336;
   -webkit-text-stroke: unset;
   background-clip: unset;
 }
@@ -154,21 +154,21 @@
   background: -webkit-linear-gradient(left, #FF695E 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   background: linear-gradient(to right, #FF695E 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   text-shadow: none;
-  -webkit-text-stroke: #DB2828 0.78px;
+  -webkit-text-stroke: #ff4d4f 0.78px;
   -webkit-background-clip: text;
           background-clip: text;
   color: transparent;
 }
 .ui.orange.rating .active.icon {
   color: #FF851B;
-  text-shadow: 0px -1px 0px #FE9A76, -1px 0px 0px #FE9A76, 0px 1px 0px #FE9A76, 1px 0px 0px #FE9A76;
+  text-shadow: 0px -1px 0px #fa8c16, -1px 0px 0px #fa8c16, 0px 1px 0px #fa8c16, 1px 0px 0px #fa8c16;
 }
 .ui.orange.rating .icon.selected,
 .ui.orange.rating .icon.selected.active,
 .ui.orange.rating .icon.selected.partial.active {
   background: inherit;
   color: #e76b00;
-  text-shadow: 0px -1px 0px #ff875c, -1px 0px 0px #ff875c, 0px 1px 0px #ff875c, 1px 0px 0px #ff875c;
+  text-shadow: 0px -1px 0px #f78000, -1px 0px 0px #f78000, 0px 1px 0px #f78000, 1px 0px 0px #f78000;
   -webkit-text-stroke: unset;
   background-clip: unset;
 }
@@ -177,21 +177,21 @@
   background: -webkit-linear-gradient(left, #FF851B 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   background: linear-gradient(to right, #FF851B 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   text-shadow: none;
-  -webkit-text-stroke: #FE9A76 0.78px;
+  -webkit-text-stroke: #fa8c16 0.78px;
   -webkit-background-clip: text;
           background-clip: text;
   color: transparent;
 }
 .ui.yellow.rating .active.icon {
   color: #FFE21F;
-  text-shadow: 0px -1px 0px #FFD700, -1px 0px 0px #FFD700, 0px 1px 0px #FFD700, 1px 0px 0px #FFD700;
+  text-shadow: 0px -1px 0px #fadb14, -1px 0px 0px #fadb14, 0px 1px 0px #fadb14, 1px 0px 0px #fadb14;
 }
 .ui.yellow.rating .icon.selected,
 .ui.yellow.rating .icon.selected.active,
 .ui.yellow.rating .icon.selected.partial.active {
   background: inherit;
   color: #ebcd00;
-  text-shadow: 0px -1px 0px #e6c100, -1px 0px 0px #e6c100, 0px 1px 0px #e6c100, 1px 0px 0px #e6c100;
+  text-shadow: 0px -1px 0px #f5d400, -1px 0px 0px #f5d400, 0px 1px 0px #f5d400, 1px 0px 0px #f5d400;
   -webkit-text-stroke: unset;
   background-clip: unset;
 }
@@ -200,7 +200,7 @@
   background: -webkit-linear-gradient(left, #FFE21F 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   background: linear-gradient(to right, #FFE21F 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   text-shadow: none;
-  -webkit-text-stroke: #FFD700 0.78px;
+  -webkit-text-stroke: #fadb14 0.78px;
   -webkit-background-clip: text;
           background-clip: text;
   color: transparent;

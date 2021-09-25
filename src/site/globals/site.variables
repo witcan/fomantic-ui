@@ -1,8 +1,8 @@
 @primaryColor   : @blue;
 @secondaryColor : @grey;
-@red            : #DB2828;
-@orange         : #FE9A76;
-@yellow         : #FFD700;
+@red            : #ff4d4f;
+@orange         : #fa8c16;
+@yellow         : #fadb14;
 @olive          : #32CD32;
 @green          : #016936;
 @teal           : #008080;
@@ -13,3 +13,4 @@
 @brown          : #A52A2A;
 @grey           : #A0A0A0;
 @black          : #000000;
+@linkColor      : #1890ff;
